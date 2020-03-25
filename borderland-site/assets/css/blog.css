@@ -1,0 +1,33 @@
+.single-blog-post {
+display: flex;
+flex-direction: row;
+align-items: center;
+}
+
+.blog-time {
+  margin-left: 3vw;
+
+  font-size: 20px;
+  color: #EB5E28;
+}
+
+.blog-p {
+  margin: 0;
+  margin-right: 8vw;
+  margin-left: 2vw;
+  text-align: left;
+}
+
+.blog-a {
+  text-decoration: none;
+  color: #403D39;
+  font-family: 'Lato', sans-serif;
+  font-size: 36px;
+}
+
+.blog-image-adjust {
+  margin: 2vh 0 2vh 8vw;
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}

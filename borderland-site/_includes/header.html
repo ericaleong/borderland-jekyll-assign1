@@ -1,0 +1,16 @@
+<header class='header'> 
+  <div class='logo'>
+    <a href="/"><img class="logo" src="{{ site.baseurl }}/assets/images/{{ site.data.settings.logo }}" alt="logo"></a>
+  </div>
+</header>
+
+		<nav>
+			<ul>
+{% for page in site.pages %} {% if page.title %}
+<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+{% endif %} {% endfor %}
+<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
+			</ul>
+			</li>
+			</ul>
+		</nav>

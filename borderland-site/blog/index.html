@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h2>Blog</h2>
+{% for post in site.posts %}
+	<div class='single-blog-post'>
+		<div class='blog-photo'>
+			<img class='blog-image-adjust' src="{{site.baseurl}}/assets/images/{{ post.image }}" alt="bone broth">
+		</div>
+
+		<div class='blog-text'>
+			<time class='blog-time'>{{ post.date | date: "%b %-d, %Y" }}</time>
+			<p class='blog-p'><a class='blog-a' href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+		</div>
+	</div>
+{% endfor %}

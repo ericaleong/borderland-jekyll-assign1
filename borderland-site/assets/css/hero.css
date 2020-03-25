@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Libre+Baskerville&display=swap');
+
+.hero {
+  display: flex;
+  background-color: #CCC5B9;
+}
+
+.hero-image {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.hero-text {
+  margin:0 3vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-title {
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  color: #403D39;
+}
+
+.hero-subtitle {
+  font-family: 'Libre Baskerville', serif;
+  color: #403D39;
+}
