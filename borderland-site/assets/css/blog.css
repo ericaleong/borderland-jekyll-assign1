@@ -25,9 +25,27 @@ align-items: center;
   font-size: 36px;
 }
 
+.blog-a-collection {
+  padding: 5px;
+
+  background-color: #403D39;
+  text-decoration: none;
+  color: #CCC5B9;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+
 .blog-image-adjust {
   margin: 2vh 0 2vh 8vw;
   height: 300px;
   width: 300px;
   object-fit: cover;
+}
+
+time {
+  margin-left: 15vw;
+
+  color: #EB5E28;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
 }

@@ -12,6 +12,7 @@ layout: default
 		<div class='blog-text'>
 			<time class='blog-time'>{{ post.date | date: "%b %-d, %Y" }}</time>
 			<p class='blog-p'><a class='blog-a' href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+			<p class='blog-p'><a class='blog-a-collection' href="{{ post.url | prepend: site.baseurl }}">{{ post.collections }}</a></p>
 		</div>
 	</div>
 {% endfor %}
