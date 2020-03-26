@@ -3,7 +3,6 @@
 .jekyll-metadata
 vendor
 gemfiles/
-Gemfile.lock
 node_modules/
 vendor/bundle/
 vendor/cache/
