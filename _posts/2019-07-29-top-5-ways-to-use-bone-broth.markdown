@@ -5,6 +5,7 @@ date:   2019-07-29 18:05:55 +0300
 image:  IMG_0458.jpg
 collections:   Broth
 ---
+
 Ok. I'm going to open by saying that if you have only been sipping bone broth straight up or using it in the conventional ways (soups, stews and chilli), then you have been mega big time missing out and you're about to thank me!
 Listen up. Bone broth is amazing. But, who the heck wants to sip hot bone broth or make a winter comfort food in the middle of the gaddang summer?! NO ONE DOES. But we still want the amazing health benefits of the delicious superfood. What to do.
 

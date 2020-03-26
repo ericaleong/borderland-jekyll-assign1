@@ -5,6 +5,7 @@ date:   2020-03-16 15:01:35 +0300
 image:  BL_0117.jpg
 collections:   Health
 ---
+
 There's no denying that there is a lot of focus on healthy immunity right now, and for very good reason. Our immune system is our body's last line of defence in keeping us healthy and fighting infection so that we can in turn keep those around us healthy. In this blog post, we're going to give you a brief overview of what our immune system actually is and what it does. We'll also discuss ways for you to improve your immune system and how bone broth is a fantastic way of achieving a strong immune system. 
 
 One thing we want to drive home: while our immune systems are at the forefront of our minds right now, we cannot stress enough how important it is to take care of this aspect of our health year round! By ensuring our immunity is in it's optimal state and by taking proactive steps to help build strong immune systems, we're not only doing ourselves a huge service- we're doing a service for our families, our coworkers and our communities. If we're learning one thing right now, it's that individual health is community health! We are all connected and we're all in this together.  

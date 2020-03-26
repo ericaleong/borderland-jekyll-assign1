@@ -5,6 +5,7 @@ date:   2020-02-05 15:01:35 +0300
 image:  flowers-skin.jpg
 collections:   Health
 ---
+
 Let's be real. We all wish we could slow the hands of time. For some of us, this is especially true when it comes to the appearance of our skin! One of the ways that we're improving our skin naturally is through the use of collagen. The anti-aging effects of collagen is one of the major benefits of bone broth. You may have heard that collagen is good for your hair skin and nails, but how exactly does it help? And does the science support it? In this blog post, we answer both of these questions and show you why collagen is basically nature's botox. 
 
 <img src="/assets/images/photo2.jpg" alt="chicken noodle soup"/>

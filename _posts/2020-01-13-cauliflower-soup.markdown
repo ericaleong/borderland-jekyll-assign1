@@ -5,6 +5,7 @@ date:   2020-01-13 15:01:35 +0300
 image:  IMG_1604.jpeg
 collections:   Recipes
 ---
+
 Alright. You're well in to your New Years resolution for 2020! Whether you resolved to do better for your health or not.... this recipe will blow your socks off. This creamy cauliflower soup is so incredibly clean, you'll find it hard to believe that it suits any diet! Keto, Whole30, Paleo, or just plain old balanced eating- you cannot go wrong with this recipe. 
 
 <img src="/assets/images/IMG_1654.jpeg" alt="chopped vegetables"/>

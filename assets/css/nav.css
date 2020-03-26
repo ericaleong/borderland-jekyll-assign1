@@ -12,8 +12,8 @@ nav ul {
 
 nav li {
   padding: 2vw;
-  list-style: none;
 
+  list-style: none;
 }
 
 nav a {
@@ -25,4 +25,17 @@ nav a {
 
 nav a:hover {
   color: #EB5E28;
+}
+
+/* For responsive design*/
+@media only screen and (max-width: 750px) {
+  nav a {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  nav a {
+    font-size: 14px;
+  }
 }

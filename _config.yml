@@ -1,0 +1,13 @@
+title: Borderland Food Company
+email: erica.leong@edu.sait.ca
+description: >- 
+  <strong>Simple Small Batches.</strong> We ensure that our bone broth is simmered low and slow to maximize the nutrients extracted during the cooking process. 
+baseurl: ""
+url: 'http://localhost:4000'
+twitter_username: borderlandfoodco
+github_username:  ericaleong
+
+# Build settings
+
+plugins:
+  - jekyll-feed
