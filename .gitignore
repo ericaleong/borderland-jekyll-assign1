@@ -13,5 +13,4 @@ vendor/ruby/
 .bundle
 .jekyll-cache
 .sass-cache
-Gemfile.lock
 
